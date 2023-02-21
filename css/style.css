@@ -100,7 +100,11 @@
     background: url(../img/pic.jpg) top right no-repeat;
     background-size: cover;
 }
-
+.hero-headerabout {
+    background: url(../img/pic.jpg) top right no-repeat;
+    background-size: cover;
+    
+}
 .service-item {
     position: relative;
     height: 350px;
